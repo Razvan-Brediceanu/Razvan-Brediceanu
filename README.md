@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hey, I’m Razvan 👨‍💻</h1>
 <p align="center">
   Full-stack dev. Builder. Geek.<br/>
@@ -34,6 +35,8 @@ Frontend:      React • Next.js • Tailwind CSS
 Backend:       Node.js • Express • AWS • IIS  
 Databases:     MS SQL • MongoDB • ODBC  
 DevOps/Infra:  Vercel • Linux • Nginx • GitHub Actions  
+```
+
 ---
 
 ### 📊 GitHub Stats
@@ -53,3 +56,4 @@ DevOps/Infra:  Vercel • Linux • Nginx • GitHub Actions
 ---
 
 > *“There’s always a cleaner way to do it… after you’ve already built it.”*
+```
