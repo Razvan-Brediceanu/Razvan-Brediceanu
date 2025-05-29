@@ -34,9 +34,22 @@ Frontend:      React • Next.js • Tailwind CSS
 Backend:       Node.js • Express • AWS • IIS  
 Databases:     MS SQL • MongoDB • ODBC  
 DevOps/Infra:  Vercel • Linux • Nginx • GitHub Actions  
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Razvan-Brediceanu&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razvan-Brediceanu&layout=compact&theme=radical" /> </p>
-🤝 Connect With Me
-🧠 X / Twitter
+---
 
-🌍 rxbshorts.com
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Razvan-Brediceanu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razvan-Brediceanu&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+- 🧠 [X / Twitter](https://x.com/rxbjr_)
+- 🌍 [rxbshorts.com](https://rxbshorts.com)
+
+---
+
+> *“There’s always a cleaner way to do it… after you’ve already built it.”*
